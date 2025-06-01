@@ -1,0 +1,11 @@
+site_name: Jira – System Ticketowy
+theme:
+  name: material
+
+nav:
+  - Strona główna: index.md
+  - Temat projektu: temat.md
+  - Autorzy: autorzy.md
+  - Teoria: teoria.md
+  - Przykłady: przyklady.md
+  - Konfiguracja i wdrożenie: konfiguracja.md
